@@ -15,7 +15,7 @@ Currently, I'm strengthening my skills around two complementary areas: **clean s
     *   *What it is:* A full-stack web application (Angular/Spring Boot) coupled with a Business Intelligence solution (SSIS/Power BI) built during my graduation project for Wevioo.
     *   *What I did:* End-to-end development, Data Warehouse modeling (Snowflake schema), creation of interactive dashboards, and Agile (Scrum) project management.
  
-*   * 📝 **[Interactive Angular To-Do App](https://github.com/yesmine2003/todo-app)** * *What it is:* A dynamic Single Page Application (SPA) for interactive task management.
+*  📝 **[Interactive Angular To-Do App](https://github.com/yesmine2003/todo-app)** * *What it is:* A dynamic Single Page Application (SPA) for interactive task management.
     * *What I did:* Built a modular architecture demonstrating both Reactive and Template-Driven forms side-by-side, along with custom directives and Angular routing.
 
 *   🎨 **[Paint Project - Architecture & UML](https://github.com/yesmine2003/gitAGL)** 
