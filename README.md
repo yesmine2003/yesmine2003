@@ -18,17 +18,18 @@ Currently, I'm strengthening my skills around two complementary areas: **clean s
  
 *   **[Interactive Angular To-Do App](https://github.com/yesmine2003/todo-app)** 
 
-    * *What it is:* A dynamic Single Page Application (SPA) for interactive task management.
-    * *What I did:* Built a modular architecture demonstrating both Reactive and Template-Driven forms side-by-side, along with custom directives and Angular routing.
+    *What it is:* A dynamic Single Page Application (SPA) for interactive task management.
+      
+         *What I did:* Built a modular architecture demonstrating both Reactive and Template-Driven forms side-by-side, along with custom directives and Angular routing.
 
 *    **[Paint Project - Architecture & UML](https://github.com/yesmine2003/gitAGL)** 
 
-      *   *What it is:* The detailed design of an interactive drawing toolkit.
-    *   *What I did:* Comprehensive UML modeling (use cases, object lifecycles, state machines) and writing unit test scenarios.
+      *What it is:* The detailed design of an interactive drawing toolkit.
+      *What I did:* Comprehensive UML modeling (use cases, object lifecycles, state machines) and writing unit test scenarios.
 
 *    **[Python & Data Basics](https://github.com/yesmine2003/PYTHON-DSBI)** 
-    *   *What it is:* A collection of Jupyter notebooks documenting my progress in algorithms.
-    *   *What I did:* Solving logic challenges, advanced manipulation of data structures (Tuples, Dictionaries, Sets), and an introduction to data exploration with Pandas.
+     *What it is:* A collection of Jupyter notebooks documenting my progress in algorithms.
+    *What I did:* Solving logic challenges, advanced manipulation of data structures (Tuples, Dictionaries, Sets), and an introduction to data exploration with Pandas.
 
 ###  Let's Connect
 - **Portfolio:** [Check out my website](http://127.0.0.1:5500/index.html)
