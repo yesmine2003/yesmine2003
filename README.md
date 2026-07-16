@@ -28,6 +28,6 @@ Currently, I'm strengthening my skills around two complementary areas: **clean s
   * **What I did:** Solving logic challenges, advanced manipulation of data structures (Tuples, Dictionaries, Sets), and an introduction to data exploration with Pandas.
 
 ### Let's Connect
-* **Portfolio:** [Check out my website]([TON_LIEN_PUBLIC_ICI])
+* **Portfolio:** [Check out my website]([http://127.0.0.1:5500/index.html])
 * **LinkedIn:** [Yesmine Belghith](https://www.linkedin.com/in/yesmine-belghith-002362226/)
 * **Email:** [yesminebelghith.2003@gmail.com](mailto:yesminebelghith.2003@gmail.com)
