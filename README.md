@@ -24,8 +24,8 @@ Currently, I'm strengthening my skills around two complementary areas: **clean s
 
 *    **[Paint Project - Architecture & UML](https://github.com/yesmine2003/gitAGL)** 
 
-      *What it is:* The detailed design of an interactive drawing toolkit.
-      *What I did:* Comprehensive UML modeling (use cases, object lifecycles, state machines) and writing unit test scenarios.
+           *   *What it is:* The detailed design of an interactive drawing toolkit.
+            *  *What I did:* Comprehensive UML modeling (use cases, object lifecycles, state machines) and writing unit test scenarios.
 
 *    **[Python & Data Basics](https://github.com/yesmine2003/PYTHON-DSBI)** 
      *What it is:* A collection of Jupyter notebooks documenting my progress in algorithms.
